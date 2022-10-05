@@ -4,8 +4,7 @@
   
 <p align="center">Please Attack UK websites.</p>
 
-<p align="center"><img src="https://yapx.ru/v/UKPcw" width="1078" height="433" alt="DOWNED"></p>
-<p align="center"><img src="https://i.imgur.com/4Q7v2wn.png" width="1078" height="296" alt="SCRIPT"></p>
+<p align="center"><img src="https://media.discordapp.net/attachments/1009865497975717939/1027115493758349413/index.jpg?width=1169&height=603" width="1078" height="433" alt="DOWNED"></p>
 
 ## Features And Methods
 

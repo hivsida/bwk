@@ -17,40 +17,10 @@ Contact me:💻
  * [Our Telegram Channel](https://t.me/miraiddos)
  * [Our Stresser](https://t.me/flowstresser)
 
-## Downloads
-
-You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/releases)
-
-### Getting Started
-
-**Requirements**
-
-* [dnspython](https://github.com/rthalley/dnspython)
-* [cfscrape](https://github.com/Anorov/cloudflare-scrape)
-* [impacket](https://github.com/SecureAuthCorp/impacket)
-* [requests](https://github.com/psf/requests)
-* [Python3][python3]
-* [PyRoxy](https://github.com/MatrixTM/PyRoxy)
-* [icmplib](https://github.com/ValentinBELYN/icmplib)
-* [certifi](https://github.com/certifi/python-certifi)
-* [psutil](https://github.com/giampaolo/psutil)
-* [yarl](https://github.com/aio-libs/yarl)
 ---
 
-**Videos**
+## Information
 
-* Aparat: https://www.aparat.com/v/bHcP9
-* YouTube : Coming soon...
-
-**Tutorial**
-
-* Aprat : https://aparat.com/v/XPn5Z
-* YouTube : Coming soon...
----
-
-## Documentation
-
-You can read it from [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki)
 
 **How to install**
 
@@ -61,11 +31,5 @@ chmod +x *
 ./install.sh
 ```
 
-[python3]: https://python.org 'Python3'
-[github]: https://github.com/MatrixTM/MHDDoS/issues 'GitHub'
-
 ---
-
-**💰 Donation Links:**
-* https://idpay.ir/mh-prodev
 

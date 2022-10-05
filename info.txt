@@ -1,2 +1,0 @@
-node force.js GET 10 https://vstresser.us 360 64
-node force.js method proccess target time rate

@@ -33,3 +33,12 @@ chmod +x *
 
 ---
 
+**How to start**
+
+```shell script
+node tls.js GET (conc) (target) (time) (rate)
+node tls.js GET 15 https://example.com 120 64
+```
+
+---
+

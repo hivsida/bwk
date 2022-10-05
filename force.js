@@ -35,12 +35,12 @@ var file = path.basename(fileName);
 try {
 
     var proxies = fs.readFileSync('proxy.txt', 'utf-8').toString().replace(/\r/g, '').split('\n');
-	var UAs = fs.readFileSync('ua.txt', 'utf-8').replace(/\r/g, '').split('\n');
+	var UAs = fs.readFileSync('useragent.txt', 'utf-8').replace(/\r/g, '').split('\n');
 
 } catch (err) {
 
     if (err.code !== 'ENOENT') throw err;
-    console.log('The ua.txt and proxy.txt');
+    console.log('The useragent.txt and proxy.txt');
     process.exit();
 }
 

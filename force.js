@@ -192,4 +192,4 @@ setTimeout(() => {
   process.exit(1);
 }, VarsDefinetions.time*1000)
 
-console.log('Attack Sent! target - '+VarsDefinetions.Objetive+' time - '+VarsDefinetions.time);
+console.log('TLS Attack Sent! URL - '+VarsDefinetions.Objetive+' Time - '+VarsDefinetions.time);

@@ -1,6 +1,6 @@
 <h1 align="center">TLS-DDoS - Best DDoS Script</h1>
 
-<p align="center">Script by Russian Dev: ZL3CK</p>
+<p align="center">Made by: ZL3CK</p>
 
 <p align="center"><img src="https://media.discordapp.net/attachments/1009865497975717939/1027115493758349413/index.jpg?width=1169&height=603" width="1078" height="433" alt="POWER"></p>
 
